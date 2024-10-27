@@ -1,0 +1,8 @@
+{
+  "UniqueName": "NoOne.NothingNobody",
+  "Version": "0.0.1",
+  "Author": "No-one",
+  "Description": "Adds two empty characters for improvised solo/duo runs.",
+  "RequiredApiVersion": "0.6.0",
+  "EntryPointAssembly": "NothingNobody.dll",
+}
